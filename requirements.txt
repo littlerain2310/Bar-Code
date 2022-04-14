@@ -4,3 +4,5 @@ argparse
 PIL
 kraken
 collections
+pyzbar
+imutils

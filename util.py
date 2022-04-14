@@ -1,7 +1,6 @@
 from pyzbar import pyzbar
 import cv2
 import numpy as np
-import imutils
 
 
 def decode_barcode(barcode_img):
