@@ -1,0 +1,6 @@
+numpy
+opencv-python
+argparse
+PIL
+kraken
+collections
